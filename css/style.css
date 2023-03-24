@@ -1,0 +1,333 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url("/images/body_bg.png");
+}
+
+.nav {
+    gap: 20px;
+    align-items: self-start;
+    justify-content: center;
+}
+
+#dropdownMenuButton {
+    color: brown;
+}
+
+.navbar,
+.main-header-section {
+    background: orange;
+    margin-top: 10px;
+    width: 95%;
+    margin: auto;
+}
+
+.main-header-section {
+    background-color: white;
+}
+
+.nav-item {
+    background: rgb(254.248, 227);
+    width: auto;
+    border-radius: 5px;
+}
+
+li a {
+    color: brown;
+}
+
+.narbaritem {
+    width: 150px;
+    border: 2px solid black;
+}
+
+a {
+    text-align: center;
+}
+
+.type-1 {
+    width: 250px;
+    font-size: small;
+    font-weight: bold;
+}
+
+.type-1 span {
+    display: block;
+}
+
+.orange {
+    color: orange;
+
+}
+
+.dropdown {
+    background-color: white;
+    width: auto;
+    border-radius: 5px;
+}
+
+.link-black {
+    color: black;
+}
+
+.has-search {
+    width: 250px;
+}
+
+.main-header-section {
+    gap: 10px;
+}
+
+.logo-section {
+    width: 400px;
+}
+
+.column {
+    gap: 5px;
+    align-items: center;
+    border: 1px solid black;
+}
+
+
+table {
+    width: 100%;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
+
+.predition-heading {
+    margin-top: 10px;
+}
+
+.navigationbar {
+    margin-top: 5px;
+
+}
+
+.navbar-nav {
+    gap: 10px;
+    margin-left: 20px;
+    background-color: none;
+    color: black;
+
+}
+
+
+.nav-item,
+#dropdownMenuButton {
+    background-color: bisque;
+}
+
+.items1 {
+    background: rgb(254, 248, 227);
+}
+
+.items1 a {
+    color: black;
+}
+
+.left-right-section {
+    margin: 10px 45px;
+    gap: 40px;
+}
+
+.right-section {
+    float: right;
+    width: 480px;
+    gap: 5px;
+}
+
+.celebrity-section {
+    padding: 20px;
+    background: white;
+    gap: 20px;
+}
+
+.heading {
+    padding: 5px;
+    background: rgb(226, 179, 81);
+    color: white;
+
+}
+
+span {
+    display: block;
+}
+
+.heading-text,
+.small-heading {
+    background: rgb(245, 213, 124);
+    border-left: 1px solid brown;
+    border-right: 1px solid brown;
+    border-top: 1px solid brown;
+}
+
+.image-with-text {
+
+    gap: 10px;
+    border-bottom: 1px solid brown;
+    border-left: 1px solid brown;
+    border-right: 1px solid brown;
+}
+
+.human-image {
+    border-right: 1px solid brown;
+    width: 200px;
+    height: 150px;
+}
+
+.image-desc {
+    padding: 10px;
+    margin: auto;
+}
+
+.brown {
+    color: brown;
+}
+
+.appointment-with,
+.vedic-products {
+    background: bisque;
+    padding: 10px;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.appoint-heading {
+    height: 50px;
+    width: 100%;
+    margin-top: 10px;
+    color: rgb(240, 136, 70);
+    padding: 20px;
+}
+
+.appoint-heading span {
+    font-size: large;
+    font-weight: bolder;
+}
+
+.small-humanoid-section {
+    border: 1px brown;
+    width: 30%;
+    margin-left: 10px;
+}
+
+.right-human-secript {
+    margin-left: 3px;
+}
+
+.row-section {
+    line-height: 2em;
+}
+
+.image-left-small {
+    height: 220px;
+}
+
+.two-sections {
+    background: white;
+    border-bottom: 1px solid brown;
+    border-left: 1px solid brown;
+    border-right: 1px solid brown;
+}
+
+.contain-product-button{
+    position: relative;
+}
+
+
+.bolder {
+    font-weight: bold;
+}
+
+.main-small-human-section1{
+    gap:10px;
+}
+
+.products1 {
+    width: 200px;
+    height: 120px;
+    border: 1px solid orange;
+}
+
+.product-heading span{
+    color: rgb(144,93,57);
+    font-weight: bold;
+}
+.product-desc>span {
+    font-size: small;
+    align-self: center;
+    text-align: center;
+}
+
+.product-image {
+    border: 1px solid orange;
+}
+
+.product-desc>span{
+    text-align: left;
+    padding-left:5px;
+}
+
+.product-button{
+    align-self: self-end;
+    width: 70px;
+    background: rgb(238,120, 47);
+    border-radius: 5px;
+    font-size: small;
+    text-align: center;
+    font-weight: bold;
+    right: 35px;
+    bottom: 0px;
+    position: absolute;
+  
+}
+
+.product-button a{
+    color: white;
+}
+
+.product-button a:hover{
+    color: green;
+    text-decoration: none;
+}
+
+.row-section1{
+    line-height: 1em;;
+    border-bottom: 1px solid brown;
+}
+
+.consulation-fee1{
+    margin-top: 10px;
+    border-top:1 px solid brown;
+}
+
+.last-line{
+    margin-bottom: 10px;;
+}
+
+footer{
+    background: white;
+}
+
+.disclaimer, .disclaimer1{
+    align-self: center;
+    line-height: 2em;
+}
+
+.disclaimer span{
+    font-weight: bold;
+}
+
+.footer-section1{
+    border-bottom: 1px solid orange;
+}
+
